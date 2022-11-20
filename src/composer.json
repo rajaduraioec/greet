@@ -1,0 +1,15 @@
+{
+    "name": "rajaduraioec/greet",
+    "description": "Greeter - Simple greeting laravel package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rajadurai",
+            "email": "rajaduraioec@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+    },
+    "require": {}
+}
